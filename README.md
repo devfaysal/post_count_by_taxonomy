@@ -1,1 +1,1 @@
-# post_count_by_taxonomy
+# Post count by taxonomy
