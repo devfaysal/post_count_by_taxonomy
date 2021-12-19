@@ -1,7 +1,7 @@
 <?php
 /*
     Plugin Name: Post count by taxonomy
-    Description: Shortcode to display post count of specified taxonomy [pcbt value="11"] //pass tag id as value
+    Description: Shortcode to display post count of specified taxonomy [pcbt value="11"] (pass tag id as value)
     Version: 1.0.0
     Author: Faysal Ahamed
 	Author URI: https://faysal.me
